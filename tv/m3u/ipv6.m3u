@@ -5,8 +5,6 @@ http://39.134.61.219/PLTV/88888888/224/3221226900/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221226912/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" group-title="巴黎奥运",CCTV16
 http://39.134.61.219/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://123.184.70.100:801/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2
 http://39.134.61.219/PLTV/88888888/224/3221226468/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3
